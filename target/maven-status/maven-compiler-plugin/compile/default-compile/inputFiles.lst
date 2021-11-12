@@ -1,0 +1,12 @@
+/Users/damianwieczorek/Desktop/programming/kafka-generator/src/main/java/com/cloud/kafkagenerator/bootstrap/KafkaDataLoader.java
+/Users/damianwieczorek/Desktop/programming/kafka-generator/src/main/java/com/cloud/kafkagenerator/web/v1/model/LineItem.java
+/Users/damianwieczorek/Desktop/programming/kafka-generator/src/main/java/com/cloud/kafkagenerator/KafkaGeneratorApplication.java
+/Users/damianwieczorek/Desktop/programming/kafka-generator/src/main/java/com/cloud/kafkagenerator/service/KafkaProducerService.java
+/Users/damianwieczorek/Desktop/programming/kafka-generator/target/generated-sources/com/cloud/kafkagenerator/web/v1/model/DeliveryAddress.java
+/Users/damianwieczorek/Desktop/programming/kafka-generator/target/generated-sources/com/cloud/kafkagenerator/web/v1/model/PosInvoice.java
+/Users/damianwieczorek/Desktop/programming/kafka-generator/src/main/java/com/cloud/kafkagenerator/service/datagenerator/InvoiceGenerator.java
+/Users/damianwieczorek/Desktop/programming/kafka-generator/src/main/java/com/cloud/kafkagenerator/service/datagenerator/AddressGenerator.java
+/Users/damianwieczorek/Desktop/programming/kafka-generator/src/main/java/com/cloud/kafkagenerator/web/v1/model/DeliveryAddress.java
+/Users/damianwieczorek/Desktop/programming/kafka-generator/src/main/java/com/cloud/kafkagenerator/service/datagenerator/ProductGenerator.java
+/Users/damianwieczorek/Desktop/programming/kafka-generator/target/generated-sources/com/cloud/kafkagenerator/web/v1/model/LineItem.java
+/Users/damianwieczorek/Desktop/programming/kafka-generator/src/main/java/com/cloud/kafkagenerator/web/v1/model/PosInvoice.java

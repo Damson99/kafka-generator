@@ -1,0 +1,12 @@
+com/cloud/kafkagenerator/service/datagenerator/AddressGenerator.class
+com/cloud/kafkagenerator/web/v1/model/DeliveryAddress$Builder.class
+com/cloud/kafkagenerator/service/datagenerator/ProductGenerator.class
+com/cloud/kafkagenerator/KafkaGeneratorApplication.class
+com/cloud/kafkagenerator/bootstrap/KafkaDataLoader.class
+com/cloud/kafkagenerator/web/v1/model/PosInvoice$Builder.class
+com/cloud/kafkagenerator/web/v1/model/LineItem.class
+com/cloud/kafkagenerator/service/datagenerator/InvoiceGenerator.class
+com/cloud/kafkagenerator/web/v1/model/DeliveryAddress.class
+com/cloud/kafkagenerator/web/v1/model/LineItem$Builder.class
+com/cloud/kafkagenerator/web/v1/model/PosInvoice.class
+com/cloud/kafkagenerator/service/KafkaProducerService.class

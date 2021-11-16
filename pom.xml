@@ -19,7 +19,7 @@
 		<java.version>15</java.version>
 		<spring-boot-maven-plugin.version>2.5.5</spring-boot-maven-plugin.version>
 		<avro-maven-plugin.version>1.8.2</avro-maven-plugin.version>
-		<avro.version>1.9.2</avro.version>
+		<avro.version>1.11.0</avro.version>
 		<kafka-avro-serializer.version>6.0.0</kafka-avro-serializer.version>
 	</properties>
 
@@ -68,7 +68,6 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
-				<version>${spring-boot-maven-plugin.version}</version>
 				<configuration>
 					<excludes>
 						<exclude>
@@ -104,6 +103,11 @@
 	</build>
 
 	<repositories>
+		<repository>
+			<id>spring-milestones</id>
+			<name>Spring Milestones</name>
+			<url>https://repo.spring.io/milestone</url>
+		</repository>
 		<repository>
 			<id>confluent</id>
 			<url>https://packages.confluent.io/maven/</url>

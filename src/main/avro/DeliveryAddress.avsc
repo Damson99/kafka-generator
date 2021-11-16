@@ -1,5 +1,5 @@
 {
-  "namespace": "com.cloud.kafkagenerator.web.v1.model",
+  "namespace": "com.cloud.kafkastream.web.v1.model",
   "type": "record",
   "name": "DeliveryAddress",
   "fields": [

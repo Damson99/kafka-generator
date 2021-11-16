@@ -1,8 +1,8 @@
 package com.cloud.kafkagenerator.service.datagenerator;
 
-import com.cloud.kafkagenerator.web.v1.model.DeliveryAddress;
-import com.cloud.kafkagenerator.web.v1.model.LineItem;
-import com.cloud.kafkagenerator.web.v1.model.PosInvoice;
+import com.cloud.kafkastream.web.v1.model.DeliveryAddress;
+import com.cloud.kafkastream.web.v1.model.LineItem;
+import com.cloud.kafkastream.web.v1.model.PosInvoice;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

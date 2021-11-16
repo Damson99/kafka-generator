@@ -1,6 +1,6 @@
 package com.cloud.kafkagenerator.service.datagenerator;
 
-import com.cloud.kafkagenerator.web.v1.model.LineItem;
+import com.cloud.kafkastream.web.v1.model.LineItem;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.stereotype.Service;
 

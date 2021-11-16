@@ -1,6 +1,6 @@
 package com.cloud.kafkagenerator.service.datagenerator;
 
-import com.cloud.kafkagenerator.web.v1.model.DeliveryAddress;
+import com.cloud.kafkastream.web.v1.model.DeliveryAddress;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.stereotype.Service;
 
